@@ -1,0 +1,16 @@
+{
+  "name": "notes-buddy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon Backend/server.js"
+  },
+  "author": "Vaibhav Prasad",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
